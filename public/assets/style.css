@@ -1,0 +1,15 @@
+.fc .fc-view-harness {
+    height: 33.1rem !important;
+}
+.fc .fc-timegrid-slot-minor {
+    border-top: none;
+}
+.fc-sticky {
+    padding: 0.3rem;
+}
+.fc-timegrid-slots table tbody tr:nth-child(-n + 20) {
+    display: none;
+}
+.fc-timegrid-slots table tbody tr:nth-child(n + 41) {
+    display: none;
+}
